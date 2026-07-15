@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 卷一周詩敘曰周詩者南垓白華華黍由庚崇丘由儀六篇有其義而亡其辭湛續其亡故云周詩也既殷斯虔仰說洪恩夕定晨省奉朝侍昏宵中告退雞鳴在門孳孳恭誨夙夜是敦世說新語文學篇注詩紀三十山路吟
-  hash: sha256:a164f813171a852693cfe7f9454ac312145a8fde7b80a714921d84b1f936527e
+  text: 卷一周詩敘曰周詩者南垓白華華黍由庚崇丘由儀六篇有其義而亡其辭湛續其亡故云周詩也既殷斯虔仰説洪恩夕定晨省奉朝侍昏宵中告退雞鳴在門孳孳恭誨夙夜是敦世説新語文學篇注詩紀三十山路吟
+  hash: sha256:b88524d40200f61a355e304813572e579ba1e49592f5e1ffb8ef413cc6a7cfe7
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4b0031_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4b0031.xml
-hash: sha256:5aaf7ffa0db1465249eff97354f49d460252263029e7697f1a9e8426449bd27a
+hash: sha256:f94ea542edd3f3eba0e2f7ffad599fad795874e0a7de463b2a28071ab1fdacd8
